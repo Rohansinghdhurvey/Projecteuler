@@ -5,7 +5,7 @@ int main()
 {
 long long int n,i;
 cin>>n; 
-for(i=2;i<=(int)sqrt(n);)
+for(i=2;i<=(int)sqrt(n);) //123332
 {         
       if(n%i==0)
       {              
